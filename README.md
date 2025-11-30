@@ -67,9 +67,8 @@ https://yourname.github.io/campus-money-planner/
 
 
 ## 📁 폴더 구조 (Project Structure)
-
-┣ 📄 index.html → 메인 웹앱 파일
-┗ 📄 README.md → 프로젝트 설명 문서
+📄 index.html → 메인 웹앱 파일
+📄 README.md → 프로젝트 설명 문서
 
 
 ## 🧪 기타 참고사항
