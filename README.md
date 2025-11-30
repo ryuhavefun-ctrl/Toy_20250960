@@ -63,7 +63,7 @@
 
 ### ✔️ GitHub Pages로 실행 (선택)
 만약 GitHub Pages를 활성화했다면 아래 주소에서도 접근 가능합니다:
-https://yourname.github.io/campus-money-planner/
+https://ryuhavefun-ctrl.github.io/Toy_20250960/
 
 
 ## 📁 폴더 구조 (Project Structure)
